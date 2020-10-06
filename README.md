@@ -24,7 +24,7 @@ You do not have to do anything while using it on Arduino and you have to configu
 
 
 
-![2020-10-06 13.57.53](https://azatai.s3.amazonaws.com/static/2020-10-06-080253.gif)
+![2020-10-06 13.57.53](./assets/s.gif)
 
 
 
